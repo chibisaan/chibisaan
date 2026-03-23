@@ -1,31 +1,16 @@
+![banner](banner.svg)
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=2000&color=52b788&center=true&vCenter=true&width=600&height=40&lines=rooted+in+logic%2C+growing+through+code" alt="typing" />
+
 <div align="center">
 
-![banner](https://github.com/user-attachments/assets/5c25da1d-f969-45df-b515-c36b44e20ba8)
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=2000&color=52b788&center=true&vCenter=true&multiline=false&width=600&height=40&lines=rooted+in+logic%2C+growing+through+code" alt="typing" />
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-farihabintasalim-2d6a4f?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farihabintasalim/)
-[![GitHub](https://img.shields.io/badge/GitHub-chimmysaan-40916c?style=flat-square&logo=github&logoColor=white)](https://github.com/chimmysaan)
+[![Gmail](https://img.shields.io/badge/Gmail-farihabsalim@gmail.com-40916c?style=flat-square&logo=gmail&logoColor=white)](mailto:farihabsalim@gmail.com)
 ![Visitors](https://komarev.com/ghpvc/?username=chimmysaan&color=52b788&style=flat-square&label=visitors)
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%"/>
-
-### `> whoami`
-
-```python
-fariha = {
-    "university": "BRAC University — CSE, Final Year",
-    "cgpa"      : "3.89 / 4.00  (merit scholarship)",
-    "location"  : "Dhaka, Bangladesh",
-    "interests" : ["Machine Learning", "Data Science", "Quantum Computing"],
-    "currently" : "evaluating ML & DL models for multi-class text classification",
-    "status"    : "senior year — still growing 🌱"
-}
-```
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 ### `> stack`
 
@@ -53,22 +38,7 @@ fariha = {
 ![Azure](https://img.shields.io/badge/Azure-40916c?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-52b788?style=flat-square&logo=jira&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
-
-### `> stats`
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=chimmysaan&show_icons=true&theme=merko&hide_border=true&bg_color=06170f&title_color=9be3b3&text_color=52b788&icon_color=40916c" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chimmysaan&layout=compact&theme=merko&hide_border=true&bg_color=06170f&title_color=9be3b3&text_color=52b788" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=chimmysaan&theme=merko&hide_border=true&background=06170f&stroke=2d6a4f&ring=52b788&fire=74c69d&currStreakLabel=9be3b3&sideLabels=52b788&dates=40916c" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 ### `> projects`
 
@@ -78,61 +48,53 @@ $ ls -1 projects/
 
 ```
 [01] Multi-Class Text Classification
-     → Comparative analysis of RF, DNN, RNN, GRU, LSTM, BiGRU
-       TF-IDF & Word2Vec embeddings | best: BiGRU — acc 70.69%, F1 0.70
-       stack : Python, Sklearn, Keras
-       link  : github.com/chimmysaan
+     → RF, DNN, RNN, GRU, LSTM, BiGRU with TF-IDF & Word2Vec
+       best: BiGRU — acc 70.69%, F1 0.70
+       tools : Python, Scikit-learn, Keras
 
 [02] KNOWSY — LMS Platform
-     → Full-stack learning management system with JWT auth & Cloudinary media
-       stack : MERN, JWT, Cloudinary, Vercel
-       link  : knowsy-lms.vercel.app
+     → Full-stack learning management system
+       tools : React, Node.js, Express, MongoDB, JWT, Cloudinary, Vercel
 
 [03] VPN Management System
-     → Full-stack VPN firewall admin panel deployed on Microsoft Azure
-       stack : React, Node.js, PostgreSQL, Prisma, Azure
-       link  : github.com/chimmysaan
+     → Full-stack VPN firewall admin panel on Microsoft Azure
+       tools : React, Node.js, Express, PostgreSQL, Prisma, Azure
 
 [04] Travel Insurance Predictor
-     → ML pipeline with EDA, preprocessing, KNN, Random Forest, Decision Tree
-       stack : Python, Sklearn
-       link  : github.com/chimmysaan
+     → ML pipeline with EDA, KNN, Random Forest, Decision Tree
+       tools : Python, Scikit-learn, Pandas
 
 [05] Pet Adoption Portal
-     → Full-stack portal connecting adopters with stray animals
-       stack : HTML, CSS, PHP, MySQL
-       link  : github.com/chimmysaan
+     → Full-stack portal for stray animal adoption
+       tools : HTML, CSS, PHP, MySQL
 
 [06] Park Management System
-     → Secure parking system — up to 10 cars, wash & payment options
-       stack : Assembly Language
-       link  : github.com/chimmysaan
+     → Secure parking system with wash & payment
+       tools : Assembly Language
 ```
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-
-### `> experience`
-
-🌲 **Student Tutor** — CSE424 (Pattern Recognition), CSE230 (Discrete Math), CSE250 (Circuits)
-Guided peers through research paper writing and core CS concepts.
-
-🌲 **Personal Tutor** — Physics & Math, grades 9–12, for 2 years.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%"/>
 
-### `> achievements & activities`
+### `> experience`
 
-🍀 General Government Scholarship — HSC Board, Dhaka
+🌲 **Student Tutor** — CSE424 Pattern Recognition · CSE230 Discrete Math · CSE250 Circuits
 
-🍀 Volunteered — BRAC University Sports Tournament
-
-🍀 Volunteered — Holy Cross College Science Fest
-
-🍀 Interior Decorator — Holy Cross College Science Club
+🌲 **Personal Tutor** — Physics & Math · grades 9–12 · 2 years
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
+### `> stats`
+
 <div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=chimmysaan&show_icons=true&theme=merko&hide_border=true&bg_color=06170f&title_color=9be3b3&text_color=52b788&icon_color=40916c"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chimmysaan&layout=compact&theme=merko&hide_border=true&bg_color=06170f&title_color=9be3b3&text_color=52b788"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=chimmysaan&theme=merko&hide_border=true&background=06170f&stroke=2d6a4f&ring=52b788&fire=74c69d&currStreakLabel=9be3b3&sideLabels=52b788&dates=40916c"/>
+
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=chimmysaan&theme=merko&bg_color=06170f&color=52b788&line=2d6a4f&point=9be3b3&hide_border=true&area=true&area_color=2d6a4f" width="100%"/>
 
