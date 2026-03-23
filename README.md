@@ -206,12 +206,10 @@
 <rect x="0" y="199" width="680" height="1" fill="#2d6a4f" class="px"/>
 
 <text x="340" y="52" text-anchor="middle" font-family="'Press Start 2P', monospace" font-size="13" fill="#95d5b2" style="shape-rendering:crispEdges">Fariha Binta Salim</text>
-<text x="340" y="76" text-anchor="middle" font-family="'Press Start 2P', monospace" font-size="7" fill="#52b788" style="shape-rendering:crispEdges">cs @ brac university  |  ml  |  data science</text>
+<text x="340" y="76" text-anchor="middle" font-family="'Press Start 2P', monospace" font-size="7" fill="#52b788" style="shape-rendering:crispEdges">cs @ brac university  |  senior </text>
 </svg>
 
 
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=1000&color=2d6a4f&center=true&vCenter=true&width=700&height=80&lines=Fariha+Binta+Salim" alt="Fariha Binta Salim" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-farihabintasalim-2d6a4f?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farihabintasalim/)
 [![GitHub](https://img.shields.io/badge/GitHub-chimmysaan-40916c?style=flat-square&logo=github&logoColor=white)](https://github.com/chimmysaan)
