@@ -72,14 +72,42 @@ fariha = {
 
 ### `> projects`
 
-| 🌿 project | description | tech |
-|---|---|---|
-| [Multi-Class Text Classification](https://github.com/chimmysaan) | Comparative analysis of RF, DNN, RNN, GRU, LSTM, BiGRU with TF-IDF & Word2Vec. Best: BiGRU — 70.69% acc, F1: 0.70 | Python, Sklearn, Keras |
-| [KNOWSY](https://knowsy-lms.vercel.app/) | Full-stack LMS platform with JWT auth, Cloudinary media, Vercel deploy | MERN, JWT, Cloudinary |
-| [VPN Management System](https://github.com/chimmysaan) | Full-stack VPN firewall admin system deployed on Azure | React, Node, PostgreSQL, Prisma, Azure |
-| [Travel Insurance Predictor](https://github.com/chimmysaan) | ML pipeline: EDA, preprocessing, KNN, Random Forest, Decision Tree | Python, Sklearn |
-| [Pet Adoption Portal](https://github.com/chimmysaan) | Full-stack portal connecting adopters with stray animals | HTML, CSS, PHP, MySQL |
-| [Park Management System](https://github.com/chimmysaan) | Secure parking system with wash & payment | Assembly Language |
+```
+$ ls -1 projects/
+```
+
+```
+[01] Multi-Class Text Classification
+     → Comparative analysis of RF, DNN, RNN, GRU, LSTM, BiGRU
+       TF-IDF & Word2Vec embeddings | best: BiGRU — acc 70.69%, F1 0.70
+       stack : Python, Sklearn, Keras
+       link  : github.com/chimmysaan
+
+[02] KNOWSY — LMS Platform
+     → Full-stack learning management system with JWT auth & Cloudinary media
+       stack : MERN, JWT, Cloudinary, Vercel
+       link  : knowsy-lms.vercel.app
+
+[03] VPN Management System
+     → Full-stack VPN firewall admin panel deployed on Microsoft Azure
+       stack : React, Node.js, PostgreSQL, Prisma, Azure
+       link  : github.com/chimmysaan
+
+[04] Travel Insurance Predictor
+     → ML pipeline with EDA, preprocessing, KNN, Random Forest, Decision Tree
+       stack : Python, Sklearn
+       link  : github.com/chimmysaan
+
+[05] Pet Adoption Portal
+     → Full-stack portal connecting adopters with stray animals
+       stack : HTML, CSS, PHP, MySQL
+       link  : github.com/chimmysaan
+
+[06] Park Management System
+     → Secure parking system — up to 10 cars, wash & payment options
+       stack : Assembly Language
+       link  : github.com/chimmysaan
+```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
