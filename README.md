@@ -3,7 +3,6 @@
 </div>
 
 
-<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
 
 
 
