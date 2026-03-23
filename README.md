@@ -2,210 +2,109 @@
 <img src="banner.svg" alt="banner" width="100%"/>
 </div>
 
-<svg width="100%" viewBox="0 0 680 200" xmlns="http://www.w3.org/2000/svg">
-<style>rect.px { shape-rendering: crispEdges; }</style>
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
 
-<rect width="680" height="200" fill="#0d1f0f" class="px"/>
-<rect x="0" y="160" width="680" height="40" fill="#1a3320" class="px"/>
-<rect x="0" y="175" width="680" height="25" fill="#152b1a" class="px"/>
-<rect x="0" y="188" width="680" height="12" fill="#0d1f0f" class="px"/>
+  <rect width="1200" height="300" fill="#06170f"/>
 
-<g fill="#1a4d2e" class="px">
-  <rect x="40" y="120" width="8" height="8"/>
-  <rect x="32" y="128" width="24" height="8"/>
-  <rect x="24" y="136" width="40" height="8"/>
-  <rect x="16" y="144" width="56" height="8"/>
-  <rect x="8" y="152" width="72" height="8"/>
-  <rect x="40" y="160" width="8" height="8"/>
-</g>
-<g fill="#2d6a4f" class="px">
-  <rect x="44" y="116" width="8" height="8"/>
-  <rect x="36" y="124" width="24" height="8"/>
-  <rect x="28" y="132" width="40" height="8"/>
-  <rect x="20" y="140" width="56" height="8"/>
-  <rect x="12" y="148" width="72" height="8"/>
-</g>
-<g fill="#40916c" class="px">
-  <rect x="48" y="112" width="8" height="8"/>
-  <rect x="40" y="120" width="8" height="4"/>
-  <rect x="36" y="128" width="8" height="4"/>
-  <rect x="28" y="136" width="8" height="4"/>
-</g>
+  <defs>
+    <pattern id="grid" width="8" height="8" patternUnits="userSpaceOnUse">
+      <rect width="8" height="8" fill="none" stroke="#0d2a1c" stroke-width="0.4"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" fill="url(#grid)" opacity="0.35"/>
 
-<g fill="#1a3a22" class="px">
-  <rect x="120" y="100" width="8" height="8"/>
-  <rect x="112" y="108" width="24" height="8"/>
-  <rect x="104" y="116" width="40" height="8"/>
-  <rect x="96" y="124" width="56" height="8"/>
-  <rect x="88" y="132" width="72" height="8"/>
-  <rect x="80" y="140" width="88" height="8"/>
-  <rect x="72" y="148" width="104" height="8"/>
-  <rect x="120" y="156" width="8" height="12"/>
-</g>
-<g fill="#2d6a4f" class="px">
-  <rect x="124" y="96" width="8" height="8"/>
-  <rect x="116" y="104" width="24" height="8"/>
-  <rect x="108" y="112" width="40" height="8"/>
-  <rect x="100" y="120" width="56" height="8"/>
-  <rect x="92" y="128" width="72" height="8"/>
-  <rect x="84" y="136" width="88" height="8"/>
-  <rect x="76" y="144" width="104" height="8"/>
-</g>
-<g fill="#52b788" class="px">
-  <rect x="128" y="92" width="8" height="8"/>
-  <rect x="120" y="100" width="8" height="4"/>
-  <rect x="112" y="108" width="8" height="4"/>
-  <rect x="104" y="116" width="8" height="4"/>
-</g>
+  <g fill="#8fd9a8">
+    <rect x="80" y="40" width="2" height="2"/>
+    <rect x="180" y="70" width="2" height="2"/>
+    <rect x="260" y="30" width="2" height="2"/>
+    <rect x="340" y="90" width="2" height="2"/>
+    <rect x="460" y="50" width="2" height="2"/>
+    <rect x="560" y="75" width="2" height="2"/>
+    <rect x="660" y="35" width="2" height="2"/>
+    <rect x="760" y="85" width="2" height="2"/>
+    <rect x="860" y="45" width="2" height="2"/>
+    <rect x="960" y="70" width="2" height="2"/>
+    <rect x="1060" y="40" width="2" height="2"/>
+  </g>
 
-<g fill="#1a4d2e" class="px">
-  <rect x="210" y="115" width="8" height="8"/>
-  <rect x="202" y="123" width="24" height="8"/>
-  <rect x="194" y="131" width="40" height="8"/>
-  <rect x="186" y="139" width="56" height="8"/>
-  <rect x="178" y="147" width="72" height="8"/>
-  <rect x="210" y="155" width="8" height="13"/>
-</g>
-<g fill="#40916c" class="px">
-  <rect x="214" y="111" width="8" height="8"/>
-  <rect x="206" y="119" width="24" height="8"/>
-  <rect x="198" y="127" width="40" height="8"/>
-  <rect x="190" y="135" width="56" height="8"/>
-  <rect x="182" y="143" width="72" height="8"/>
-</g>
-<g fill="#74c69d" class="px">
-  <rect x="218" y="107" width="8" height="8"/>
-  <rect x="210" y="115" width="8" height="4"/>
-</g>
+  <g fill="#0f2e20">
+    <polygon points="50,180 40,230 60,230"/>
+    <polygon points="100,175 90,230 110,230"/>
+    <polygon points="150,185 140,230 160,230"/>
+    <polygon points="200,170 190,230 210,230"/>
+    <polygon points="250,180 240,230 260,230"/>
+    <polygon points="300,175 290,230 310,230"/>
+    <polygon points="350,185 340,230 360,230"/>
+    <polygon points="400,170 390,230 410,230"/>
+    <polygon points="450,180 440,230 460,230"/>
+    <polygon points="500,175 490,230 510,230"/>
+    <polygon points="550,185 540,230 560,230"/>
+    <polygon points="600,170 590,230 610,230"/>
+    <polygon points="650,180 640,230 660,230"/>
+    <polygon points="700,175 690,230 710,230"/>
+    <polygon points="750,185 740,230 760,230"/>
+    <polygon points="800,170 790,230 810,230"/>
+    <polygon points="850,180 840,230 860,230"/>
+    <polygon points="900,175 890,230 910,230"/>
+    <polygon points="950,185 940,230 960,230"/>
+    <polygon points="1000,170 990,230 1010,230"/>
+    <polygon points="1050,180 1040,230 1060,230"/>
+    <polygon points="1100,175 1090,230 1110,230"/>
+  </g>
 
-<g fill="#152b1a" class="px">
-  <rect x="290" y="80" width="8" height="8"/>
-  <rect x="282" y="88" width="24" height="8"/>
-  <rect x="274" y="96" width="40" height="8"/>
-  <rect x="266" y="104" width="56" height="8"/>
-  <rect x="258" y="112" width="72" height="8"/>
-  <rect x="250" y="120" width="88" height="8"/>
-  <rect x="242" y="128" width="104" height="8"/>
-  <rect x="234" y="136" width="120" height="8"/>
-  <rect x="290" y="144" width="8" height="24"/>
-</g>
-<g fill="#2d6a4f" class="px">
-  <rect x="294" y="76" width="8" height="8"/>
-  <rect x="286" y="84" width="24" height="8"/>
-  <rect x="278" y="92" width="40" height="8"/>
-  <rect x="270" y="100" width="56" height="8"/>
-  <rect x="262" y="108" width="72" height="8"/>
-  <rect x="254" y="116" width="88" height="8"/>
-  <rect x="246" y="124" width="104" height="8"/>
-  <rect x="238" y="132" width="120" height="8"/>
-</g>
-<g fill="#52b788" class="px">
-  <rect x="298" y="72" width="8" height="8"/>
-  <rect x="290" y="80" width="8" height="4"/>
-  <rect x="282" y="88" width="8" height="4"/>
-  <rect x="274" y="96" width="8" height="4"/>
-  <rect x="266" y="104" width="8" height="4"/>
-</g>
+  <g fill="#1c5a38">
+    <rect x="120" y="205" width="6" height="25" fill="#4a3324"/>
+    <polygon points="123,165 105,205 141,205"/>
+    <polygon points="123,180 108,220 138,220"/>
 
-<g fill="#1a4d2e" class="px">
-  <rect x="390" y="108" width="8" height="8"/>
-  <rect x="382" y="116" width="24" height="8"/>
-  <rect x="374" y="124" width="40" height="8"/>
-  <rect x="366" y="132" width="56" height="8"/>
-  <rect x="358" y="140" width="72" height="8"/>
-  <rect x="350" y="148" width="88" height="8"/>
-  <rect x="390" y="156" width="8" height="12"/>
-</g>
-<g fill="#40916c" class="px">
-  <rect x="394" y="104" width="8" height="8"/>
-  <rect x="386" y="112" width="24" height="8"/>
-  <rect x="378" y="120" width="40" height="8"/>
-  <rect x="370" y="128" width="56" height="8"/>
-  <rect x="362" y="136" width="72" height="8"/>
-  <rect x="354" y="144" width="88" height="8"/>
-</g>
-<g fill="#74c69d" class="px">
-  <rect x="398" y="100" width="8" height="8"/>
-  <rect x="390" y="108" width="8" height="4"/>
-  <rect x="382" y="116" width="8" height="4"/>
-</g>
+    <rect x="300" y="200" width="7" height="30" fill="#4a3324"/>
+    <polygon points="303,155 280,200 326,200"/>
+    <polygon points="303,175 285,220 321,220"/>
 
-<g fill="#152b1a" class="px">
-  <rect x="480" y="90" width="8" height="8"/>
-  <rect x="472" y="98" width="24" height="8"/>
-  <rect x="464" y="106" width="40" height="8"/>
-  <rect x="456" y="114" width="56" height="8"/>
-  <rect x="448" y="122" width="72" height="8"/>
-  <rect x="440" y="130" width="88" height="8"/>
-  <rect x="432" y="138" width="104" height="8"/>
-  <rect x="480" y="146" width="8" height="22"/>
-</g>
-<g fill="#2d6a4f" class="px">
-  <rect x="484" y="86" width="8" height="8"/>
-  <rect x="476" y="94" width="24" height="8"/>
-  <rect x="468" y="102" width="40" height="8"/>
-  <rect x="460" y="110" width="56" height="8"/>
-  <rect x="452" y="118" width="72" height="8"/>
-  <rect x="444" y="126" width="88" height="8"/>
-  <rect x="436" y="134" width="104" height="8"/>
-</g>
-<g fill="#52b788" class="px">
-  <rect x="488" y="82" width="8" height="8"/>
-  <rect x="480" y="90" width="8" height="4"/>
-  <rect x="472" y="98" width="8" height="4"/>
-  <rect x="464" y="106" width="8" height="4"/>
-</g>
+    <rect x="500" y="198" width="7" height="32" fill="#4a3324"/>
+    <polygon points="503,150 475,198 531,198"/>
+    <polygon points="503,170 480,220 526,220"/>
 
-<g fill="#1a3a22" class="px">
-  <rect x="570" y="105" width="8" height="8"/>
-  <rect x="562" y="113" width="24" height="8"/>
-  <rect x="554" y="121" width="40" height="8"/>
-  <rect x="546" y="129" width="56" height="8"/>
-  <rect x="538" y="137" width="72" height="8"/>
-  <rect x="530" y="145" width="88" height="8"/>
-  <rect x="570" y="153" width="8" height="15"/>
-</g>
-<g fill="#40916c" class="px">
-  <rect x="574" y="101" width="8" height="8"/>
-  <rect x="566" y="109" width="24" height="8"/>
-  <rect x="558" y="117" width="40" height="8"/>
-  <rect x="550" y="125" width="56" height="8"/>
-  <rect x="542" y="133" width="72" height="8"/>
-  <rect x="534" y="141" width="88" height="8"/>
-</g>
-<g fill="#74c69d" class="px">
-  <rect x="578" y="97" width="8" height="8"/>
-  <rect x="570" y="105" width="8" height="4"/>
-  <rect x="562" y="113" width="8" height="4"/>
-</g>
+    <rect x="720" y="205" width="6" height="25" fill="#4a3324"/>
+    <polygon points="723,165 705,205 741,205"/>
+    <polygon points="723,180 708,220 738,220"/>
 
-<g fill="#1a4d2e" class="px">
-  <rect x="640" y="118" width="8" height="8"/>
-  <rect x="632" y="126" width="24" height="8"/>
-  <rect x="624" y="134" width="40" height="8"/>
-  <rect x="616" y="142" width="56" height="8"/>
-  <rect x="608" y="150" width="72" height="8"/>
-  <rect x="640" y="158" width="8" height="10"/>
-</g>
-<g fill="#52b788" class="px">
-  <rect x="644" y="114" width="8" height="8"/>
-  <rect x="636" y="122" width="24" height="8"/>
-  <rect x="628" y="130" width="40" height="8"/>
-  <rect x="620" y="138" width="56" height="8"/>
-  <rect x="612" y="146" width="72" height="8"/>
-</g>
+    <rect x="920" y="200" width="7" height="30" fill="#4a3324"/>
+    <polygon points="923,155 900,200 946,200"/>
+    <polygon points="923,175 905,220 941,220"/>
+  </g>
 
-<rect x="56" y="152" width="8" height="8" fill="#95d5b2" class="px"/>
-<rect x="160" y="140" width="8" height="8" fill="#52b788" class="px"/>
-<rect x="320" y="128" width="8" height="8" fill="#95d5b2" class="px"/>
-<rect x="420" y="144" width="8" height="8" fill="#74c69d" class="px"/>
-<rect x="510" y="130" width="8" height="8" fill="#52b788" class="px"/>
-<rect x="600" y="143" width="8" height="8" fill="#95d5b2" class="px"/>
+  <g fill="#2c8a57">
+    <rect x="200" y="190" width="10" height="40" fill="#5a3e2b"/>
+    <polygon points="205,120 170,190 240,190"/>
+    <polygon points="205,150 175,220 235,220"/>
 
-<rect x="0" y="0" width="680" height="1" fill="#2d6a4f" class="px"/>
-<rect x="0" y="199" width="680" height="1" fill="#2d6a4f" class="px"/>
+    <rect x="600" y="185" width="10" height="45" fill="#5a3e2b"/>
+    <polygon points="605,110 565,185 645,185"/>
+    <polygon points="605,145 570,220 640,220"/>
 
-<text x="340" y="52" text-anchor="middle" font-family="'Press Start 2P', monospace" font-size="13" fill="#95d5b2" style="shape-rendering:crispEdges">Fariha Binta Salim</text>
+    <rect x="1000" y="190" width="10" height="40" fill="#5a3e2b"/>
+    <polygon points="1005,120 970,190 1040,190"/>
+    <polygon points="1005,150 975,220 1035,220"/>
+  </g>
+
+  <rect x="0" y="230" width="1200" height="70" fill="#0e2f20"/>
+
+  <rect x="-200" y="170" width="1600" height="120" fill="#1f4d35" opacity="0.18">
+    <animate attributeName="x" from="-200" to="0" dur="12s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="50%" y="62%" text-anchor="middle" fill="#9be3b3"
+        font-family="'Press Start 2P', monospace" font-size="22" letter-spacing="3">
+    FARIHA BINTA SALIM
+  </text>
+
+  <text x="50%" y="82%" text-anchor="middle" fill="#4da870"
+        font-family="monospace" font-size="13" letter-spacing="4">
+    BRAC UNIVERSITY  |  CSE  |  SENIOR
+  </text>
+
+</svg>
 
 
 
