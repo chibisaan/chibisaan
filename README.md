@@ -1,111 +1,139 @@
-<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+<div align="center">
 
-  <rect width="1200" height="300" fill="#06170f"/>
+![banner](https://github.com/user-attachments/assets/5c25da1d-f969-45df-b515-c36b44e20ba8)
 
-  <defs>
-    <pattern id="grid" width="8" height="8" patternUnits="userSpaceOnUse">
-      <rect width="8" height="8" fill="none" stroke="#0d2a1c" stroke-width="0.4"/>
-    </pattern>
-  </defs>
-  <rect width="1200" height="300" fill="url(#grid)" opacity="0.25"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=2000&color=52b788&center=true&vCenter=true&multiline=false&width=600&height=40&lines=rooted+in+logic%2C+growing+through+code" alt="typing" />
 
-  <circle cx="1000" cy="60" r="16" fill="#c8f5d0"/>
-  <circle cx="995" cy="55" r="16" fill="#06170f"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-farihabintasalim-2d6a4f?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farihabintasalim/)
+[![GitHub](https://img.shields.io/badge/GitHub-chimmysaan-40916c?style=flat-square&logo=github&logoColor=white)](https://github.com/chimmysaan)
+![Visitors](https://komarev.com/ghpvc/?username=chimmysaan&color=52b788&style=flat-square&label=visitors)
 
-  <g fill="#8fd9a8">
-    <rect x="80" y="40" width="2" height="2"/>
-    <rect x="180" y="70" width="2" height="2"/>
-    <rect x="260" y="30" width="2" height="2"/>
-    <rect x="340" y="90" width="2" height="2"/>
-    <rect x="460" y="50" width="2" height="2"/>
-    <rect x="560" y="75" width="2" height="2"/>
-    <rect x="660" y="35" width="2" height="2"/>
-    <rect x="760" y="85" width="2" height="2"/>
-    <rect x="860" y="45" width="2" height="2"/>
-    <rect x="960" y="70" width="2" height="2"/>
-    <rect x="1080" y="50" width="2" height="2"/>
-  </g>
+</div>
 
-  <g fill="#0c2419">
-    <animateTransform attributeName="transform" type="translate"
-      from="0 0" to="-40 0" dur="40s" repeatCount="indefinite"/>
-    <g>
-      <polygon points="20,190 10,230 30,230"/>
-      <polygon points="60,185 50,230 70,230"/>
-      <polygon points="100,190 90,230 110,230"/>
-      <polygon points="140,185 130,230 150,230"/>
-      <polygon points="180,190 170,230 190,230"/>
-      <polygon points="220,185 210,230 230,230"/>
-      <polygon points="260,190 250,230 270,230"/>
-      <polygon points="300,185 290,230 310,230"/>
-      <polygon points="340,190 330,230 350,230"/>
-      <polygon points="380,185 370,230 390,230"/>
-      <polygon points="420,190 410,230 430,230"/>
-      <polygon points="460,185 450,230 470,230"/>
-      <polygon points="500,190 490,230 510,230"/>
-      <polygon points="540,185 530,230 550,230"/>
-      <polygon points="580,190 570,230 590,230"/>
-      <polygon points="620,185 610,230 630,230"/>
-      <polygon points="660,190 650,230 670,230"/>
-      <polygon points="700,185 690,230 710,230"/>
-      <polygon points="740,190 730,230 750,230"/>
-      <polygon points="780,185 770,230 790,230"/>
-      <polygon points="820,190 810,230 830,230"/>
-      <polygon points="860,185 850,230 870,230"/>
-      <polygon points="900,190 890,230 910,230"/>
-      <polygon points="940,185 930,230 950,230"/>
-      <polygon points="980,190 970,230 990,230"/>
-      <polygon points="1020,185 1010,230 1030,230"/>
-      <polygon points="1060,190 1050,230 1070,230"/>
-      <polygon points="1100,185 1090,230 1110,230"/>
-    </g>
-  </g>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%"/>
 
-  <g fill="#1c5a38">
-    <animateTransform attributeName="transform" type="translate"
-      from="0 0" to="-80 0" dur="25s" repeatCount="indefinite"/>
-    <rect x="150" y="205" width="6" height="25" fill="#4a3324"/>
-    <polygon points="153,165 135,205 171,205"/>
-    <polygon points="153,180 138,220 168,220"/>
-    <rect x="400" y="200" width="7" height="30" fill="#4a3324"/>
-    <polygon points="403,155 380,200 426,200"/>
-    <polygon points="403,175 385,220 421,220"/>
-    <rect x="650" y="205" width="6" height="25" fill="#4a3324"/>
-    <polygon points="653,165 635,205 671,205"/>
-    <polygon points="653,180 638,220 668,220"/>
-    <rect x="900" y="200" width="7" height="30" fill="#4a3324"/>
-    <polygon points="903,155 880,200 926,200"/>
-    <polygon points="903,175 885,220 921,220"/>
-  </g>
+### `> whoami`
 
-  <g fill="#2c8a57">
-    <animateTransform attributeName="transform" type="translate"
-      from="0 0" to="-140 0" dur="18s" repeatCount="indefinite"/>
-    <rect x="250" y="195" width="9" height="35" fill="#5a3e2b"/>
-    <polygon points="254,140 220,195 288,195"/>
-    <polygon points="254,170 225,220 283,220"/>
-    <rect x="550" y="190" width="10" height="40" fill="#5a3e2b"/>
-    <polygon points="555,130 520,190 590,190"/>
-    <polygon points="555,160 525,220 585,220"/>
-    <rect x="850" y="195" width="9" height="35" fill="#5a3e2b"/>
-    <polygon points="854,140 820,195 888,195"/>
-    <polygon points="854,170 825,220 883,220"/>
-  </g>
+```python
+fariha = {
+    "university": "BRAC University — CSE, Final Year",
+    "cgpa"      : "3.89 / 4.00  (merit scholarship)",
+    "location"  : "Dhaka, Bangladesh",
+    "interests" : ["Machine Learning", "Data Science", "Quantum Computing"],
+    "currently" : "evaluating ML & DL models for multi-class text classification",
+    "status"    : "senior year — still growing 🌱"
+}
+```
 
-  <rect x="0" y="230" width="1200" height="70" fill="#0e2f20"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-  <rect x="-200" y="170" width="1600" height="120" fill="#1f4d35" opacity="0.12">
-    <animate attributeName="x" from="-200" to="0" dur="50s" repeatCount="indefinite"/>
-  </rect>
+### `> stack`
 
-  <text x="50%" y="55%" text-anchor="middle" fill="#9be3b3"
-        font-family="'Press Start 2P', monospace" font-size="54" letter-spacing="4">
-    FARIHA BINTA SALIM
-  </text>
+**Languages**
 
-  <text x="50%" y="82%" text-anchor="middle" fill="#4da870"
-        font-family="monospace" font-size="20" letter-spacing="5">
-    BRAC UNIVERSITY  |  CSE  |  SENIOR
-  </text>
+![Python](https://img.shields.io/badge/Python-2d6a4f?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-40916c?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-52b788?style=flat-square&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-74c69d?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-95d5b2?style=flat-square&logo=postgresql&logoColor=333)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-b7e4c7?style=flat-square&logo=html5&logoColor=333)
 
-</svg>
+**Frameworks & Tools**
+
+![React](https://img.shields.io/badge/React-2d6a4f?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-40916c?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-52b788?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-74c69d?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-95d5b2?style=flat-square&logo=postgresql&logoColor=333)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-b7e4c7?style=flat-square&logo=scikit-learn&logoColor=333)
+
+**Platforms**
+
+![Linux](https://img.shields.io/badge/Linux-2d6a4f?style=flat-square&logo=linux&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-40916c?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-52b788?style=flat-square&logo=jira&logoColor=white)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
+
+### `> stats`
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=chimmysaan&show_icons=true&theme=merko&hide_border=true&bg_color=06170f&title_color=9be3b3&text_color=52b788&icon_color=40916c" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chimmysaan&layout=compact&theme=merko&hide_border=true&bg_color=06170f&title_color=9be3b3&text_color=52b788" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=chimmysaan&theme=merko&hide_border=true&background=06170f&stroke=2d6a4f&ring=52b788&fire=74c69d&currStreakLabel=9be3b3&sideLabels=52b788&dates=40916c" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%"/>
+
+### `> projects`
+
+```
+$ ls -1 projects/
+```
+
+```
+[01] Multi-Class Text Classification
+     → Comparative analysis of RF, DNN, RNN, GRU, LSTM, BiGRU
+       TF-IDF & Word2Vec embeddings | best: BiGRU — acc 70.69%, F1 0.70
+       stack : Python, Sklearn, Keras
+       link  : github.com/chimmysaan
+
+[02] KNOWSY — LMS Platform
+     → Full-stack learning management system with JWT auth & Cloudinary media
+       stack : MERN, JWT, Cloudinary, Vercel
+       link  : knowsy-lms.vercel.app
+
+[03] VPN Management System
+     → Full-stack VPN firewall admin panel deployed on Microsoft Azure
+       stack : React, Node.js, PostgreSQL, Prisma, Azure
+       link  : github.com/chimmysaan
+
+[04] Travel Insurance Predictor
+     → ML pipeline with EDA, preprocessing, KNN, Random Forest, Decision Tree
+       stack : Python, Sklearn
+       link  : github.com/chimmysaan
+
+[05] Pet Adoption Portal
+     → Full-stack portal connecting adopters with stray animals
+       stack : HTML, CSS, PHP, MySQL
+       link  : github.com/chimmysaan
+
+[06] Park Management System
+     → Secure parking system — up to 10 cars, wash & payment options
+       stack : Assembly Language
+       link  : github.com/chimmysaan
+```
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+### `> experience`
+
+🌲 **Student Tutor** — CSE424 (Pattern Recognition), CSE230 (Discrete Math), CSE250 (Circuits)
+Guided peers through research paper writing and core CS concepts.
+
+🌲 **Personal Tutor** — Physics & Math, grades 9–12, for 2 years.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%"/>
+
+### `> achievements & activities`
+
+🍀 General Government Scholarship — HSC Board, Dhaka
+
+🍀 Volunteered — BRAC University Sports Tournament
+
+🍀 Volunteered — Holy Cross College Science Fest
+
+🍀 Interior Decorator — Holy Cross College Science Club
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chimmysaan&theme=merko&bg_color=06170f&color=52b788&line=2d6a4f&point=9be3b3&hide_border=true&area=true&area_color=2d6a4f" width="100%"/>
+
+</div>
