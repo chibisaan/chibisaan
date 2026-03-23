@@ -50,38 +50,28 @@ $ ls -1 projects/
 [01] Multi-Class Text Classification
      → RF, DNN, RNN, GRU, LSTM, BiGRU with TF-IDF & Word2Vec
        best: BiGRU — acc 70.69%, F1 0.70
-```
-`Python` `Scikit-learn` `Keras`
+       tools : Python  Scikit-learn  Keras
 
-```
 [02] KNOWSY — LMS Platform
      → Full-stack learning management system
-```
-`React` `Node.js` `Express` `MongoDB` `JWT` `Cloudinary` `Vercel`
+       tools : React  Node.js  Express  MongoDB  JWT  Cloudinary  Vercel
 
-```
 [03] VPN Management System
      → Full-stack VPN firewall admin panel on Microsoft Azure
-```
-`React` `Node.js` `Express` `PostgreSQL` `Prisma` `Azure`
+       tools : React  Node.js  Express  PostgreSQL  Prisma  Azure
 
-```
 [04] Travel Insurance Predictor
      → ML pipeline with EDA, KNN, Random Forest, Decision Tree
-```
-`Python` `Scikit-learn` `Pandas`
+       tools : Python  Scikit-learn  Pandas
 
-```
 [05] Pet Adoption Portal
      → Full-stack portal for stray animal adoption
-```
-`HTML` `CSS` `PHP` `MySQL`
+       tools : HTML  CSS  PHP  MySQL
 
-```
 [06] Park Management System
      → Secure parking system with wash & payment
+       tools : Assembly Language
 ```
-`Assembly Language`
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%"/>
 
