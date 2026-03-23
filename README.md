@@ -1,12 +1,6 @@
-# Fariha Binta Salim
-
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║         building things, learning everything             ║
-╚══════════════════════════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=1000&color=2d6a4f&center=true&vCenter=true&width=700&height=80&lines=Fariha+Binta+Salim" alt="Fariha Binta Salim" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-farihabintasalim-2d6a4f?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farihabintasalim/)
 [![GitHub](https://img.shields.io/badge/GitHub-chimmysaan-40916c?style=flat-square&logo=github&logoColor=white)](https://github.com/chimmysaan)
@@ -16,7 +10,7 @@
 
 ---
 
-### `$ whoami`
+### whoami
 
 ```python
 fariha = {
@@ -30,7 +24,7 @@ fariha = {
 
 ---
 
-### `$ cat stack.txt`
+### stack
 
 **Languages**
 
@@ -58,7 +52,7 @@ fariha = {
 
 ---
 
-### `$ ls projects/`
+### projects
 
 | project | description | tech |
 |---|---|---|
@@ -67,36 +61,25 @@ fariha = {
 | [VPN Management System](https://github.com/chimmysaan) | Full-stack VPN firewall admin system deployed on Azure | React, Node, PostgreSQL, Prisma, Azure |
 | [Travel Insurance Predictor](https://github.com/chimmysaan) | ML pipeline: EDA, preprocessing, KNN, Random Forest, Decision Tree evaluation | Python, Sklearn |
 | [Pet Adoption Portal](https://github.com/chimmysaan) | Full-stack portal connecting adopters with stray animals | HTML, CSS, PHP, MySQL |
-| [Park Management System](https://github.com/chimmysaan) | Secure parking system for up to 10 cars with wash & payment | Assembly Language |
+| [Park Management System](https://github.com/chimmysaan) | Secure parking system with wash & payment | Assembly Language |
 
 ---
 
-### `$ cat experience.log`
+### experience
 
-- **Student Tutor** — CSE424 (Pattern Recognition), CSE230 (Discrete Math), CSE250 (Circuits)
-  Guided peers through research paper writing and core CS concepts.
+🍀 **Student Tutor** — CSE424 (Pattern Recognition), CSE230 (Discrete Math), CSE250 (Circuits)
+Guided peers through research paper writing and core CS concepts.
 
-- **Personal Tutor** — Physics & Math, grades 9–12, for 2 years.
-
----
-
-### `$ git log --oneline --graph`
-
-```
-* General Government Scholarship — HSC Board, Dhaka
-* Volunteered — BRAC University Sports Tournament
-* Volunteered — Holy Cross College Science Fest
-* Interior Decorator — Holy Cross College Science Club
-```
+🍀 **Personal Tutor** — Physics & Math, grades 9–12, for 2 years.
 
 ---
 
-<div align="center">
+### achievements & activities
 
-```
-"one commit at a time."
-```
+🍀 General Government Scholarship — HSC Board, Dhaka
 
-![snake animation](https://raw.githubusercontent.com/chimmysaan/chimmysaan/output/github-contribution-grid-snake-dark.svg)
+🍀 Volunteered — BRAC University Sports Tournament
 
-</div>
+🍀 Volunteered — Holy Cross College Science Fest
+
+🍀 Interior Decorator — Holy Cross College Science Club
