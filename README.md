@@ -1,8 +1,8 @@
+<div align="center">
+
 ![banner](banner.svg)
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=2000&color=52b788&center=true&vCenter=true&width=600&height=40&lines=rooted+in+logic%2C+growing+through+code" alt="typing" />
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-farihabintasalim-2d6a4f?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farihabintasalim/)
 [![Gmail](https://img.shields.io/badge/Gmail-farihabsalim@gmail.com-40916c?style=flat-square&logo=gmail&logoColor=white)](mailto:farihabsalim@gmail.com)
