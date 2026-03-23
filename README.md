@@ -1,5 +1,5 @@
-![banner](https://github.com/user-attachments/assets/dd1531c7-48c9-4f52-8e12-5e514d60d79d)<div align="center">
-<img src="banner.svg" alt="banner" width="100%"/>
+<div align="center">
+<img src="banner.svg" width="100%" alt="banner"/>
 </div>
 
 <svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
