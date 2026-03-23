@@ -1,9 +1,6 @@
 ![banner](https://github.com/user-attachments/assets/d1d8758a-b0fc-4246-8a81-5cb4769a2ef2)<div align="center">
 
 
-
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-farihabintasalim-2d6a4f?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farihabintasalim/)
 [![GitHub](https://img.shields.io/badge/GitHub-chimmysaan-40916c?style=flat-square&logo=github&logoColor=white)](https://github.com/chimmysaan)
 ![Visitors](https://komarev.com/ghpvc/?username=chimmysaan&color=52b788&style=flat-square&label=visitors)
@@ -18,10 +15,8 @@
 ```python
 fariha = {
     "university": "BRAC University — CSE, Final Year",
-    "cgpa": "3.89 / 4.00  (merit scholarship)",
     "location": "Dhaka, Bangladesh",
-    "interests": ["Machine Learning", "Data Science", "Quantum Computing"],
-    "currently": "evaluating ML & DL models for text classification"
+    "interests": ["Machine Learning"]
 }
 ```
 
