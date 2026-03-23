@@ -134,6 +134,6 @@ Guided peers through research paper writing and core CS concepts.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chimmysaan&theme=merko&bg_color=06170f&color=52b788&line=2d6a4f&point=9be3b3&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chimmysaan&theme=merko&bg_color=06170f&color=52b788&line=2d6a4f&point=9be3b3&hide_border=true&area=true&area_color=2d6a4f" width="100%"/>
 
 </div>
