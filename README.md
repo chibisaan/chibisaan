@@ -1,4 +1,6 @@
-![banner](https://github.com/user-attachments/assets/d1d8758a-b0fc-4246-8a81-5cb4769a2ef2)<div align="center">
+![banner](https://github.com/user-attachments/assets/5c25da1d-f969-45df-b515-c36b44e20ba8)!
+
+<div align="center">
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-farihabintasalim-2d6a4f?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farihabintasalim/)
