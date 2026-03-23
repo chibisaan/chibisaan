@@ -1,11 +1,10 @@
-![banner](https://github.com/user-attachments/assets/5c25da1d-f969-45df-b515-c36b44e20ba8)!
+![banner](https://github.com/user-attachments/assets/5c25da1d-f969-45df-b515-c36b44e20ba8)
 
 <div align="center">
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-farihabintasalim-2d6a4f?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farihabintasalim/)
-[![GitHub](https://img.shields.io/badge/GitHub-chimmysaan-40916c?style=flat-square&logo=github&logoColor=white)](https://github.com/chimmysaan)
-![Visitors](https://komarev.com/ghpvc/?username=chimmysaan&color=52b788&style=flat-square&label=visitors)
+
 
 
 </div>
@@ -83,3 +82,5 @@ Guided peers through research paper writing and core CS concepts.
 🍀 Volunteered — Holy Cross College Science Fest
 
 🍀 Interior Decorator — Holy Cross College Science Club
+
+![Visitors](https://komarev.com/ghpvc/?username=chimmysaan&color=52b788&style=flat-square&label=visitors)
