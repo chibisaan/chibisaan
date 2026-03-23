@@ -77,25 +77,11 @@ $ ls -1 projects/
 
 ### `> experience`
 
-🌲 **Student Tutor** — CSE424 Pattern Recognition · CSE230 Discrete Math · CSE250 Circuits
+🌲 **Student Tutor** — CSE424 Pattern Recognition · CSE230 Discrete Math · CSE250 Circuits . 1 year
 
 🌲 **Personal Tutor** — Physics & Math · grades 9–12 · 2 years
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-### `> stats`
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=chimmysaan&show_icons=true&theme=merko&hide_border=true&bg_color=06170f&title_color=9be3b3&text_color=52b788&icon_color=40916c"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chimmysaan&layout=compact&theme=merko&hide_border=true&bg_color=06170f&title_color=9be3b3&text_color=52b788"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=chimmysaan&theme=merko&hide_border=true&background=06170f&stroke=2d6a4f&ring=52b788&fire=74c69d&currStreakLabel=9be3b3&sideLabels=52b788&dates=40916c"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chimmysaan&theme=merko&bg_color=06170f&color=52b788&line=2d6a4f&point=9be3b3&hide_border=true&area=true&area_color=2d6a4f" width="100%"/>
 
 </div>
