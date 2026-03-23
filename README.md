@@ -206,8 +206,7 @@
 <rect x="0" y="199" width="680" height="1" fill="#2d6a4f" class="px"/>
 
 <text x="340" y="52" text-anchor="middle" font-family="'Press Start 2P', monospace" font-size="13" fill="#95d5b2" style="shape-rendering:crispEdges">Fariha Binta Salim</text>
-<text x="340" y="76" text-anchor="middle" font-family="'Press Start 2P', monospace" font-size="7" fill="#52b788" style="shape-rendering:crispEdges">cs @ brac university  |  senior </text>
-</svg>
+
 
 
 
